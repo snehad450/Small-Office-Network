@@ -19,4 +19,4 @@ A ping test to 192.168.10.1 was successful with 0% packet loss.
 
 ## Network Topology
 
-![Network Topology](Screenshots/Screenshot%202026-11-23%20at%2001.05.07.png)
+![Network Topology](Networktopology.png)
